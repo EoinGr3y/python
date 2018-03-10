@@ -1,0 +1,16 @@
+2018-02-28 20:17:12,570 - DEBUG - Start of program
+2018-02-28 20:17:12,570 - DEBUG - Start of factorial(5)
+2018-02-28 20:17:12,571 - DEBUG - i is 1, total is 1
+2018-02-28 20:17:12,571 - DEBUG - i is 2, total is 2
+2018-02-28 20:17:12,571 - DEBUG - i is 3, total is 6
+2018-02-28 20:17:12,571 - DEBUG - i is 4, total is 24
+2018-02-28 20:17:12,571 - DEBUG - i is 5, total is 120
+2018-02-28 20:17:12,571 - DEBUG - End of program
+2018-02-28 20:17:25,314 - DEBUG - Start of program
+2018-02-28 20:17:25,314 - DEBUG - Start of factorial(5)
+2018-02-28 20:17:25,314 - DEBUG - i is 1, total is 1
+2018-02-28 20:17:25,314 - DEBUG - i is 2, total is 2
+2018-02-28 20:17:25,314 - DEBUG - i is 3, total is 6
+2018-02-28 20:17:25,314 - DEBUG - i is 4, total is 24
+2018-02-28 20:17:25,315 - DEBUG - i is 5, total is 120
+2018-02-28 20:17:25,315 - DEBUG - End of program
