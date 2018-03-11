@@ -1,0 +1,1 @@
+@py.exe c:\Users\eoing\git\udemy\python\start_up.py %*
