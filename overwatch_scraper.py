@@ -12,6 +12,7 @@ def findMatches(urls, searchTerms):
     for url in urls:
         for searchTerm in searchTerms:
             matchingArticles.extend(getMatchingPosts(url, searchTerm))
+
     return matchingArticles
 
 def getMatchingPosts(url, searchTerm):
@@ -25,16 +26,19 @@ def getMatchingPosts(url, searchTerm):
     for article in articles:
         if searchTerm in article.get_text():
             matchingArticles.append(article)
+
     return matchingArticles
 
 def removeDuplicates(matchingArticles, filePathString):
     uniqueMatchingArticles = []
     with open(filePathString, 'r') as myFile:
         content = myFile.read()
+
         for matchedArticle in matchingArticles:
             if matchedArticle.get_text() not in content:
                 uniqueMatchingArticles.append(matchedArticle)
     myFile.close()
+
     return uniqueMatchingArticles
 
 def writeToFile(matchingArticles, filePathString):
@@ -53,5 +57,6 @@ urls = ['https://www.reddit.com/r/Overwatch/', 'https://www.reddit.com/r/Overwat
 searchTerms = ['Ana', 'McCree', 'Zenyatta']
 matchingArticles = findMatches(urls, searchTerms)
 uniqueMatchingArticles = removeDuplicates(matchingArticles, 'C:\\Users\\eoing\\Documents\\Notes\\Overwatch\\Articles.txt')
+
 if uniqueMatchingArticles is not None:
     writeToFile(uniqueMatchingArticles, 'C:\\Users\\eoing\\Documents\\Notes\\Overwatch\\Articles.txt')
