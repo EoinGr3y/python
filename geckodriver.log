@@ -113,3 +113,50 @@ JavaScript error: https://dj.rasset.ie/dotie/js/header-scripts.js?v=20180305v0, 
 [Child 11628, Chrome_ChildThread[GPU 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1520786845788	geckodriver	INFO	geckodriver 0.19.1
+1520786845802	geckodriver	INFO	Listening on 127.0.0.1:61400
+1520786848930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\eoing\\AppData\\Local\\Temp\\rust_mozprofile.OvpWjCeVjCQp"
+Unable to read VR Path Registry from C:\Users\eoing\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\eoing\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\eoing\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\eoing\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\eoing\AppData\Local\openvr\openvrpaths.vrpath
+1520786851012	Marionette	INFO	Listening on port 61408
+1520786852068	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\eoing\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1508, Chrome_ChildThread] W[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\eoing\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://code.jquery.com/jquery-1.10.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://code.jquery.com/jquery-1.10.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://code.jquery.com/jquery-1.10.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://code.jquery.com/jquery-1.10.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12036, Chrome_ChildThr[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\eoing\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://a.fixya.net/include/js/js_master_3.js?v=270218, line 1: unreachable code after return statement
+JavaScript warning: http://a.fixya.net/include/js/js_master_3.js?v=270218, line 1: unreachable code after return statement
+JavaScript warning: http://a.fixya.net/include/js/js_master_3.js?v=270218, line 1: unreachable code after return statement
+JavaScript warning: http://a.fixya.net/include/js/js_master_3.js?v=270218, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-31729760-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-31729760-1, line 69: unreachable code after return statement
+[Child 12380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chromUnable to read VR Path Registry from C:\Users\eoing\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1352, Chrome_Ch[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/[Child 4872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4872, [Child 16476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16476, C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
